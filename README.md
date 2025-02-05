@@ -6,4 +6,5 @@ Para exercitar a lógica de programção com base em JavaScript, os alunos do Or
     Sobre o projeto
 </h4>
 O projeto permite que o usuário adicione nomes a uma lista e, com um clique, sorteie um amigo secreto aleatoriamente. O foco principal foi a implementação da lógica em JavaScript , utilizando HTML e CSS para a interface.
-![pag_inicial] (https://github.com/user-attachments/assets/d5f04e0e-3bca-46d3-bd19-6011ddb3c630)
+
+![pag_inicial](assets/pag_inicial.png)
